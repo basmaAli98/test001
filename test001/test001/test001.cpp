@@ -7,4 +7,7 @@ int main()
 		cout << i << "  ";
 }
 	cout << "hello" << " ";
+	char x;
+	cin >> x;
+	cout << x;
 }
