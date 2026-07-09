@@ -3,11 +3,8 @@
 using namespace std;
 int main()
 {
-	cout << "enter x and y " << endl;
-	int x, y;
-	cin >> x >> y;
-	for (int i = x; i <= y; i++) {
-		cout << i << "  ";
-}
-	cout << "sum = " << x + y;
+	int z;
+	cin >> z;
+	if (z % 2 == 0)cout << "even";
+	else cout << "odd";
 }
