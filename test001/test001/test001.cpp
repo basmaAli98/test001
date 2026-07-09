@@ -8,4 +8,5 @@ int main()
 	for (int i = x; i <= y; i++) {
 		cout << i << "  ";
 }
+	cout << "sum = " << x + y;
 }
