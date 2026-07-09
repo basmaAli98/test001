@@ -13,5 +13,7 @@ int main()
 	
 
 	cout << "sum = " << x + y;
+	cout << x - y << endl;
+	cout<<x*y<<endl;
 
 }
